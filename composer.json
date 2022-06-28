@@ -1,0 +1,19 @@
+{
+  "name": "educavalheiro/design-patterns",
+  "description": "Design patterns project",
+  "minimum-stability": "stable",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "educavalheiro",
+      "email": "dev@educavalheiro.com"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "Alura\\DesignPatterns\\": "src/"
+    }
+  },
+  "require": {
+  }
+}
